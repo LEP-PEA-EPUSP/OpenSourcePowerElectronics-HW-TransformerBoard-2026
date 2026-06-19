@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Placa de Trafos")(type Legacy)(uri "${KIPRJMOD}/Placa de Trafos.lib")(options "")(descr ""))
+)

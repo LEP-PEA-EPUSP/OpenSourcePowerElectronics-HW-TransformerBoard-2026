@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Placa de Trafos")(type KiCad)(uri "${KIPRJMOD}/Placa de Trafos.pretty")(options "")(descr ""))
+)
